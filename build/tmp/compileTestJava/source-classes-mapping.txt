@@ -1,0 +1,8 @@
+com/advantageshopping/automation/runners/RegisterNewUserRunner.java
+ com.advantageshopping.automation.runners.RegisterNewUserRunner
+com/advantageshopping/automation/runners/PracticeTextBoxRunner.java
+ com.advantageshopping.automation.runners.PracticeTextBoxRunner
+com/advantageshopping/automation/stepdefinitions/PracticeTextBoxStepDefinitions.java
+ com.advantageshopping.automation.stepdefinitions.PracticeTextBoxStepDefinitions
+com/advantageshopping/automation/stepdefinitions/RegisterNewUserStepDefinitions.java
+ com.advantageshopping.automation.stepdefinitions.RegisterNewUserStepDefinitions
